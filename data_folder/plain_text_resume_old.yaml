@@ -1,0 +1,199 @@
+personal_information:
+  name: 'Cassandra'
+  surname: 'Thomas'
+  date_of_birth: 'September 1988'
+  country: 'USA'
+  city: 'Stewart'
+  address: 'null' 
+  phone_prefix: '1'
+  phone: '9414688084'
+  email: 'cassandra6133@gmail.com'
+  github: 'https://github.com/cthomas6133'
+  linkedin: 'https://www.linkedin.com/in/cassandrathomas613'
+
+education_details:
+  - degree: "Bachelor's Degree" 
+    university: 'University of South Florida'
+    gpa: '3.5'
+    graduation_year: '2011'
+    field_of_study: 'Psychology'
+    exam:
+      'Not Applicable': '4' 
+
+experience_details:
+  - position: 'Case Manager'
+    company: 'Zander Insurance Agency'
+    employment_period: '10/2021 - Present'
+    location: 'Nashville, TN'
+    industry: 'Insurance'
+    key_responsibilities: 
+      - description: 'Expertly handled 300+ client cases.'
+      - description: 'Achieved consistently high remarks in Quality Assurance reviews.'
+      - description: 'Developed and sustained productive relationships with insurance companies and underwriters, improving underwriting processes and client communication.'
+    skills_acquired:
+      - 'Client management'
+      - 'Quality assurance'
+      - 'Underwriting Processes'
+      - 'Practical Applications for AI'
+      - 'Client Relationship Management'
+      - 'Insurance Policy Knowledge'
+      - 'Communication and Negotiation'
+  - position: 'Probation Officer'
+    company: 'Mid-Cumberland Human Resource Agency'
+    employment_period: '08/2020 - 10/2021'
+    location: 'Dickson, TN'
+    industry: 'Law Enforcement'
+    key_responsibilities: 
+      - description: 'Managed 400+ misdemeanor probation cases and seamlessly integrated files from external agencies.'
+      - description: 'Pioneered client onboarding process improvements.'
+      - description: 'Forged valuable relationships with community partners and maintained a high client satisfaction rate.'
+    skills_acquired:
+      - 'Case Management'
+      - 'Process Improvement'
+      - 'Community Outreach and Partnership'
+  - position: 'Care Coordinator'
+    company: 'Camelot Care Centers, Inc.'
+    employment_period: '12/2019 - 08/2020'
+    location: 'Northwest Tennessee Region'
+    industry: 'Social Work'
+    key_responsibilities: 
+      - description: 'Provided vital family support services to at-risk families, including delivering quality courses on parenting, alcohol and drug education, and domestic violence conflict resolution.'
+    skills_acquired:
+      - 'Family Support Services'
+      - 'Crisis Intervention'
+      - 'Training and Facilitation'
+  - position: 'Government Analyst I'
+    company: 'Florida Department of Juvenile Justice'
+    employment_period: '02/2015 - 09/2019'
+    location: 'Clearwater, FL'
+    industry: 'Law Enforcement'
+    key_responsibilities:
+      - description: 'Maintained and monitored 500+ user accounts, handled data input and corrections, and addressed customer issues through helpdesk support and training.'
+      - description: 'Translated complex stakeholder requirements into functional specifications and diagrams.'
+      - description: 'Acted as a statewide trainer and published training materials and business rules internally.'
+    skills_acquired:
+      - 'Data Analysis and Reporting'
+      - 'Technical Training and Support'
+      - 'Policy and Procedure Development'
+  - position: 'Juvenile Probation Officer'
+    company: 'Florida Department of Juvenile Justice'
+    employment_period: '07/2013 - 02/2015'
+    location: 'Clearwater, FL'
+    industry: 'Law Enforcement'
+    key_responsibilities: 
+      - description: 'Provided comprehensive case management for over 30 high-risk juvenile offenders.'
+      - description: 'Served as a gang unit liaison, coordinating with local law enforcement to address the needs of juvenile offenders involved in gang activities.'
+      - description: 'Innovated a program that allowed juvenile offenders to complete community service in place of court payment obligations.'
+    skills_acquired:
+      - 'Youth Justice Case Management'
+      - 'Risk Assessment and Intervention'
+      - 'Program Development and Implementation'
+      - 'User Account Management'
+      - 'Requirements Translation'
+      - 'Training and Documentation'
+      - 'Liason Between System Users and Development Team'
+  - position: 'Detention Screener'
+    company: 'OperationPAR'
+    employment_period: '10/2011 - 07/2013'
+    location: 'Clearwater, FL'
+    industry: 'Law Enforcement'
+    key_responsibilities: 
+      - description: 'Conducted investigative interviews and data processing for juveniles referred for delinquency.'
+      - description: 'Maintained positive interagency relationships, collaborating with law enforcement and court personnel to secure the appropriate placement of juveniles.'
+      - description: 'Demonstrated flexibility and the ability to thrive in high-stress situations.'
+    skills_acquired:
+      - 'Interviewing Techniques'
+      - 'Risk Assessment'
+      - 'Interagency Collaboration'
+  - position: 'Customer Service Representative'
+    company: 'Jo-Ann Fabrics'
+    employment_period: '2006-2007 and 2010-2012'
+    location: 'Venice and Tampa, FL'
+    industry: 'Retail'
+    key_responsibilities:
+      - description: 'Maintained an up-to-date knowledge of store policies and procedures, and provided customers with comprehensive assistance.'
+      - description: 'Demonstrated versatility through cross-training in multiple departments.'
+      - description: "Excelled in delivering customer satisfaction by contributing to the store's management and operation standards."
+    skills_acquired:
+      - 'Retail Operations Management'
+      - 'Sales Training and Coaching'
+      - 'Inventory Control'
+  - position: 'Sales Representative'
+    company: 'Circuit City'
+    employment_period: '09/2007 - 10/2010'
+    location: 'Tampa, FL'
+    industry: 'Retail'
+    key_responsibilities: 
+      - description: 'Managed all points of sale system, including troubleshooting, sales and return transactions.'
+      - description: 'Entrusted with opening and closing duties, along with managing end-of-day cashier drawer counts.'
+      - description: 'Demonstrated proficiency in product knowledge in several departments.'
+    skills_acquired:
+      - 'Customer Service'
+  - position: 'Assistant Store Manager'
+    company: 'Scraptopia'
+    employment_period: '09/2007 - 10/2010' 
+    location: 'Brandon, FL'
+    industry: 'Retail'
+    key_responsibilities:
+      - description: 'Oversaw daily sales operations, was the secondary key holder, and managed scrapbooking courses and scheduling.'
+      - description: 'Achieved sales goals consistently by leveraging product knowledge and upselling techniques, and offered problem-solving solutions.'
+      - description: 'Contributed to inventory management, sales promotions, and warranties.'
+    skills_acquired:
+      - 'Customer Service'
+
+projects: []
+
+achievements:
+  - name: 'DJJ Human Trafficking Advocate of the Year (2019)'
+    description: 'https://www.djj.state.fl.us/news/djj-weekly-letter/2019/oct-15-2019'
+
+certifications:
+  - 'Leadership and Self-Direction Certification'
+  - 'Human Trafficking Trainer'
+  - 'CPR/First Aid'
+  - 'Florida General Instructor Techniques'
+  - 'Protective Action Response Training'
+
+languages:
+  - language: 'english'
+    proficiency: 'fluent'
+
+interests:
+  - 'AI Ethics'
+  - 'Machine Learning'
+  - 'Stable Diffusion'
+  - '3D Printing'
+  - 'Art'
+  - 'Project Management'
+  - 'Results'
+
+availability:
+  notice_period: 'immediately'
+
+salary_expectations:
+  salary_range_usd: '60000' 
+
+self_identification:
+  gender: 'Female'
+  pronouns: 'She'
+  veteran: 'No' 
+  disability: 'No' 
+  ethnicity: 'white'
+
+legal_authorization:
+  eu_work_authorization: 'No' 
+  us_work_authorization: 'Yes'
+  requires_us_visa: 'No' 
+  requires_us_sponsorship: 'No' 
+  requires_eu_visa: 'No' 
+  legally_allowed_to_work_in_eu: 'No' 
+  legally_allowed_to_work_in_us: 'Yes' 
+  requires_eu_sponsorship: 'No'
+
+work_preferences:
+  remote_work: 'Yes'
+  in_person_work: 'No'
+  open_to_relocation: 'No'
+  willing_to_complete_assessments: 'Yes'
+  willing_to_undergo_drug_tests: 'Yes'
+  willing_to_undergo_background_checks: 'Yes'
